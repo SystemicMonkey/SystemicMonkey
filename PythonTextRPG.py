@@ -54,7 +54,6 @@ def title_screen():
     print('                --Back--              ')
     print('                --Quit--              ')
     print("  Don't worry i Don't Copy Write 2021 ")
-    print('#### but the names old ... oldham ####')
     print("######################################")
     title_screen_selections()
 
